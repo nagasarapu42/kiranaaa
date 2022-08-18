@@ -1,0 +1,4 @@
+public stat avoid {
+
+
+}
